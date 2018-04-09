@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Community Feedback" max_length="40" name="x_rdsp2_community_feedback" type="collection"/>
+</database>
